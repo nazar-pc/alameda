@@ -27,3 +27,4 @@ doh.registerUrl("emptyRequire", "../emptyRequire/emptyRequire.html");
 doh.registerUrl("promiseRequire", "../promiseRequire/promiseRequire.html");
 doh.registerUrl("preserveDeps", "../preserveDeps/preserveDeps.html");
 doh.registerUrl("timeoutErrors", "../timeoutErrors/timeoutErrors.html");
+doh.registerUrl("packageWithNamedDefine", "../packageWithNamedDefine/packageWithNamedDefine.html");
